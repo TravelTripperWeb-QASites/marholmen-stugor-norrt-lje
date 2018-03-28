@@ -1,0 +1,73 @@
+{
+  "name_localized": {
+    "en": "Villa (Gulan)",
+    "es": "Villa (Gulan)"
+  },
+  "short_description_localized": {
+    "en": "Villa (Gulan)",
+    "es": "Villa (Gulan)"
+  },
+  "description_localized": {
+    "en": "<strong>4 Twin Beds</strong><br />Overlooking the sea<br /><br /><b>Layout</b> - 3 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>4 Twin Beds</strong><br />Overlooking the sea<br /><br /><b>Layout</b> - 3 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM8",
+  "order": 8
+}

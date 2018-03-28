@@ -1,0 +1,73 @@
+{
+  "name_localized": {
+    "en": "Villa (Viken)",
+    "es": "Villa (Viken)"
+  },
+  "short_description_localized": {
+    "en": "Villa (Viken)",
+    "es": "Villa (Viken)"
+  },
+  "description_localized": {
+    "en": "<strong>5 Twin Beds</strong><br />Features a private patio<br /><br /><b>Layout</b> - 4 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom, jetted bathtub and separate shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>5 Twin Beds</strong><br />Features a private patio<br /><br /><b>Layout</b> - 4 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom, jetted bathtub and separate shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+
+  ],
+  "reztrip_room_id": "RM7",
+  "order": 7
+}

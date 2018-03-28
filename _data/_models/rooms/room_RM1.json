@@ -1,0 +1,96 @@
+{
+  "name_localized": {
+    "en": "Cottage (Marholm)",
+    "es": "Cottage (Marholm)"
+  },
+  "short_description_localized": {
+    "en": "Cottage (Marholm)",
+    "es": "Cottage (Marholm)"
+  },
+  "description_localized": {
+    "en": "<strong>5 Twin Beds</strong><br />753-sq-foot (70-sq-meter) room with garden and water views<br /><br /><b>Layout</b> - 3 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;",
+    "es": "<strong>5 Twin Beds</strong><br />753-sq-foot (70-sq-meter) room with garden and water views<br /><br /><b>Layout</b> - 3 bedrooms, living room, and dining area<br /><b>Internet</b> - Free WiFi <br /> <b>Food & Drink</b> - Kitchen <br /><b>Bathroom</b> - Private bathroom and shower<br /><b>Practical</b> - Desk; cribs/infant beds available on request<br /><b>Need to Know</b> - Limited housekeeping<br />Non-Smoking<br />&nbsp;"
+  },
+  "amenities_localized": {
+    "en": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ],
+    "es": [
+      {
+        "name": "Cribs/infant beds (surcharge)"
+      },
+      {
+        "name": "Desk"
+      },
+      {
+        "name": "Limited housekeeping"
+      },
+      {
+        "name": "Free WiFi"
+      },
+      {
+        "name": "Non-Smoking"
+      },
+      {
+        "name": "Private bathroom"
+      },
+      {
+        "name": "Shower only"
+      },
+      {
+        "name": "Television"
+      }
+    ]
+  },
+  "images": [
+    {
+      "caption": "Image 1",
+      "description": "",
+      "alt": "Image 1",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1268/68456_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 2",
+      "description": "",
+      "alt": "Image 2",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1268/68457_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 3",
+      "description": "",
+      "alt": "Image 3",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1268/68458_1_yankee_large.jpg"
+    },
+    {
+      "caption": "Image 4",
+      "description": "",
+      "alt": "Image 4",
+      "url": "http://d2r4g49zv9n1lp.cloudfront.net/1268/68459_1_yankee_large.jpg"
+    }
+  ],
+  "reztrip_room_id": "RM1",
+  "order": 1
+}
